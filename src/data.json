@@ -1,0 +1,419 @@
+{
+  "images": {
+    "hero": {
+      "src": "/images/clinic.jpg",
+      "alt": "Kalash Chikitsalaya Clinic"
+    },
+    "virtual_map": {
+      "src": "/images/Map.png",
+      "alt": "Kalash Chikitsalaya Virtual Route Map"
+    }
+  },
+  "contact": {
+    "address": "Hanuman Mandir, D - 100, Budh Vihar Part B, MIG, Near Rampur, Taramandal Rd, Gorakhpur, Uttar Pradesh 273016",
+    "phone": "05514000536",
+    "phone_appointment": "+91 7607131682",
+    "whatsapp": "+91 9450878415",
+    "email": "chikitsalayakalash@gmail.com",
+    "timing": "Morning 10AM to 8PM (Sunday: Closed)",
+    "mapLink": "https://www.google.com/maps/place/KALASH+CHIKITSALAYA/@26.7155421,83.3986599,17z/data=!3m1!4b1!4m6!3m5!1s0x39914393c4288c99:0x612d8425332a85a5!8m2!3d26.7155421!4d83.3986599!16s%2Fg%2F11g2k144gp?entry=ttu&g_ep=EgoyMDI2MDMxMC4wIKXMDSoASAFQAw%3D%3D",
+    "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3563.903112030056!2d83.3960849745338!3d26.71554207676523!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39914393c4288c99%3A0x612d8425332a85a5!2sKALASH%20CHIKITSALAYA!5e0!3m2!1sen!2sin!4v1773380062158!5m2!1sen!2sin"
+  },
+  "gallery": [
+    {
+      "src": "/gallery/image1.jpeg",
+      "alt": "Clinic View"
+    },
+    {
+      "src": "/gallery/image2.jpeg",
+      "alt": "Reception Area"
+    },
+    {
+      "src": "/gallery/image3.jpeg",
+      "alt": "Medical Store"
+    },
+    {
+      "src": "/gallery/image4.jpeg",
+      "alt": "Waiting Room"
+    },
+    {
+      "src": "/gallery/image5.jpeg",
+      "alt": "Kalash Chikitsalaya View 5"
+    },
+    {
+      "src": "/gallery/image6.jpeg",
+      "alt": "Kalash Chikitsalaya View 6"
+    },
+    {
+      "src": "/gallery/image7.jpeg",
+      "alt": "Kalash Chikitsalaya View 7"
+    },
+    {
+      "src": "/gallery/image8.jpeg",
+      "alt": "Kalash Chikitsalaya View 8"
+    },
+    {
+      "src": "/gallery/image9.jpeg",
+      "alt": "Kalash Chikitsalaya View 9"
+    },
+    {
+      "src": "/gallery/image10.jpeg",
+      "alt": "Kalash Chikitsalaya View 10"
+    },
+    {
+      "src": "/gallery/image11.jpeg",
+      "alt": "Kalash Chikitsalaya View 11"
+    },
+    {
+      "src": "/gallery/image12.jpeg",
+      "alt": "Kalash Chikitsalaya View 12"
+    },
+    {
+      "src": "/gallery/image13.jpeg",
+      "alt": "Kalash Chikitsalaya View 13"
+    },
+    {
+      "src": "/gallery/image14.jpeg",
+      "alt": "Kalash Chikitsalaya View 14"
+    },
+    {
+      "src": "/gallery/image15.jpeg",
+      "alt": "Kalash Chikitsalaya View 15"
+    },
+    {
+      "src": "/gallery/image16.jpeg",
+      "alt": "Kalash Chikitsalaya View 16"
+    },
+    {
+      "src": "/gallery/image17.jpeg",
+      "alt": "Kalash Chikitsalaya View 17"
+    },
+    {
+      "src": "/gallery/image18.jpeg",
+      "alt": "Kalash Chikitsalaya View 18"
+    },
+    {
+      "src": "/gallery/image19.jpeg",
+      "alt": "Kalash Chikitsalaya View 19"
+    },
+    {
+      "src": "/gallery/image20.jpeg",
+      "alt": "Kalash Chikitsalaya View 20"
+    },
+    {
+      "src": "/gallery/image21.jpeg",
+      "alt": "Kalash Chikitsalaya View 21"
+    }
+  ],
+  "medical_information": {
+    "diseases_detail": [
+      {
+        "name": "पाइल्स (बवासीर)",
+        "about": "बवासीर (पाइल्स) गुदा और मलाशय (rectum) के निचले हिस्से में सूजन वाली नसों का एक आम समूह है। यह मुख्य रूप से कब्ज के कारण मल त्याग के दौरान जोर लगाने से नसों में सूजन के कारण होता है। इसके मुख्य लक्षणों में दर्द, खुजली, जलन और मल त्याग के दौरान चमकीला लाल रक्त आना शामिल है, जिसे आम भाषा में खूनी या बादी बवासीर कहते हैं।",
+        "causes": [
+          "लंबे समय तक कब्ज रहना",
+          "ज्यादा देर तक बैठकर काम करना",
+          "फाइबर की कमी वाला भोजन",
+          "पानी कम पीना",
+          "गर्भावस्था",
+          "भारी वजन उठाना"
+        ],
+        "symptoms": [
+          "मल त्याग के समय खून आना",
+          "गुदा के आसपास सूजन",
+          "दर्द और जलन",
+          "खुजली",
+          "मल त्याग में कठिनाई"
+        ],
+        "precautions": [
+          "रोजाना 3 से 4 लीटर पानी पिएं",
+          "फाइबर युक्त भोजन लें",
+          "ज्यादा देर तक एक जगह न बैठें",
+          "कब्ज से बचें",
+          "नियमित व्यायाम करें"
+        ],
+        "foods_to_eat": [
+          "हरी सब्जियां",
+          "फल (पपीता, सेब, केला)",
+          "दलिया",
+          "ओट्स",
+          "सलाद"
+        ],
+        "foods_to_avoid": [
+          "बहुत ज्यादा मसालेदार खाना",
+          "जंक फूड",
+          "अल्कोहल",
+          "तला हुआ भोजन"
+        ],
+        "treatment": [
+          "आयुर्वेदिक औषधि",
+          "क्षारसूत्र चिकित्सा",
+          "लेजर उपचार",
+          "पंचकर्म चिकित्सा"
+        ]
+      },
+      {
+        "name": "फिस्टुला (भगन्दर)",
+        "about": "भगंदर (Fistula-in-ano) गुदा (anus) के अंदरूनी हिस्से और बाहर की त्वचा के बीच बनी एक असामान्य छोटी सुरंग (tunnel) है। यह अक्सर फोड़े के संक्रमण के बाद विकसित होती है, जिससे गुदा के आसपास तेज दर्द, सूजन और बदबूदार मवाद/खून का रिसाव होता है। इसका इलाज आमतौर पर सर्जरी से किया जाता है।",
+        "causes": [
+          "संक्रमण",
+          "गुदा ग्रंथि में सूजन",
+          "पुरानी फोड़े की समस्या",
+          "इम्यून सिस्टम कमजोर होना"
+        ],
+        "symptoms": [
+          "गुदा के पास सूजन",
+          "पस निकलना",
+          "दर्द",
+          "बार-बार फोड़ा बनना"
+        ],
+        "precautions": [
+          "साफ-सफाई का ध्यान रखें",
+          "गुदा क्षेत्र को सूखा रखें",
+          "समय पर डॉक्टर से सलाह लें",
+          "संक्रमण से बचाव करें"
+        ],
+        "treatment": [
+          "क्षारसूत्र चिकित्सा",
+          "आयुर्वेदिक उपचार",
+          "लेजर सर्जरी"
+        ]
+      },
+      {
+        "name": "फिशर",
+        "about": "एनल फिशर (Anal Fissure) गुदा (anus) की परत में होने वाले छोटे-छोटे कट या दरार होते हैं। यह मुख्य रूप से सख्त मल त्यागने, कब्ज या बहुत जोर लगाने के कारण होते हैं। इसके कारण मल त्याग के दौरान या बाद में तेज दर्द, जलन और खून आ सकता है। यह एक सामान्य लेकिन दर्दनाक समस्या है।",
+        "symptoms": [
+          "मल त्याग के समय तेज दर्द",
+          "खून आना",
+          "जलन",
+          "खुजली"
+        ],
+        "precautions": [
+          "कब्ज से बचें",
+          "ज्यादा पानी पिएं",
+          "फाइबर युक्त आहार लें",
+          "कठोर मल से बचें"
+        ],
+        "treatment": [
+          "आयुर्वेदिक दवाएं",
+          "मलहम",
+          "क्षारसूत्र चिकित्सा"
+        ]
+      },
+      {
+        "name": "कब्ज",
+        "about": "कब्ज (Constipation) एक सामान्य पाचन समस्या है, जिसमें मल त्याग करने में कठिनाई होती है, मल बहुत सख्त हो जाता है या मल त्याग की आवृत्ति कम (सप्ताह में 3 बार से कम) हो जाती है। यह पेट दर्द, भारीपन और गैस जैसी समस्याओं का कारण बनता है। यह कोई बीमारी नहीं, बल्कि जीवनशैली या खान-पान की कमी से होने वाला लक्षण है।",
+        "causes": [
+          "फाइबर की कमी",
+          "पानी कम पीना",
+          "ज्यादा जंक फूड",
+          "व्यायाम की कमी"
+        ],
+        "precautions": [
+          "रोजाना व्यायाम करें",
+          "फाइबर युक्त भोजन लें",
+          "पानी ज्यादा पिएं",
+          "समय पर भोजन करें"
+        ]
+      }
+    ]
+  },
+  "facilities": {
+    "title": "हमारी सुविधाएँ",
+    "items": [
+      "मरीजों हेतु ए.सी./कुलर रूम जनरल रूम व खाने पीने की व्यवस्था उपलब्ध।",
+      "क्षार सूत्र, लेजर मशीन, रबर बैंड लाइगेशन, अग्निकर्म एवं स्कलैरोथिरेपी से भगन्दर, बवासीर, परिकर्तिका (पाइल्स, फिस्टुला, फिसर) का सफल इलाज।",
+      "मलद्वार के अन्दर मशीन द्वारा जाँच व रिपोर्ट।",
+      "पंचकर्म चिकित्सा से शरीर का डी-टॉक्सीफिकेशन रसायन चिकित्सा (या शरीर का कायाकल्प) प्रतिरोधक क्षमता में वृद्धि, गठिया, सायटिका, सर्वाइकल, मोटापा PCOD, बांझपन (Tubal Blockage) माइग्रेन, त्वचा रोग, हाइड्राफेशियल से महिलाओं के सौन्दर्य में वृद्धि आदि।",
+      "क्षारसूत्र से भगन्दर, बवासीर, रबर बैंड, लाइगेशन अगिनकर्म, स्केलेरोथिरैपी तथा पंचकर्म से गठिया, सायटिका सर्वाइकल कपिंग (फायर कपिंग, वेट कपिंग, ड्राई थेरेपी) मोटापा, स्टीम बाथ, अभयंग महिलाओं के गुदारोग के लिए महिला डा. द्वारा इलाज की सुविधा तथा नार्मल डिलेवरी की सुविधा उपलब्ध है एवं समस्त त्वचा सम्बन्धी रोगों का इलाज किया जाता है।",
+      "लीच थिरैपी द्वारा पुराने चर्म रोग एवं गंजापन की चिकित्सा।",
+      "बच्चों के लिए स्वर्णप्राशन (आयुर्वेदिक टीकाकरण) उपलब्ध।",
+      "महिलाओं के गुदा (Anus) रोगों के लिए महिला डा० द्वारा इलाज की सुविधा।",
+      "नार्मल डिलेवरी की सुविधा उपलब्ध।"
+    ]
+  },
+  "health_tips_section": {
+    "title": "स्वास्थ्य सुझाव",
+    "tips": [
+      "प्रतिदिन सुबह टहलना स्वास्थ्य के लिए लाभदायक है",
+      "दिन में कम से कम 8 से 10 गिलास पानी पिएं",
+      "ज्यादा तला हुआ भोजन न करें",
+      "फाइबर युक्त आहार लें",
+      "कब्ज से बचें"
+    ]
+  },
+  "patient_guidelines": {
+    "before_treatment": [
+      "डॉक्टर से पूरी जांच कराएं",
+      "अपने पुराने मेडिकल रिकॉर्ड साथ लाएं",
+      "दवाओं की जानकारी दें"
+    ],
+    "after_treatment": [
+      "डॉक्टर की सलाह अनुसार दवाएं लें",
+      "भारी काम से बचें",
+      "स्वच्छता बनाए रखें",
+      "फॉलोअप विजिट करें"
+    ]
+  },
+  "ayurvedic_upchar": {
+    "section_title": "विस्तृत आयुर्वेदिक उपचार",
+    "description": "हमारे यहाँ गुदा रोगों का स्थायी और सुरक्षित उपचार प्राचीन आयुर्वेदिक विधियों द्वारा किया जाता है।",
+    "therapies": [
+      {
+        "title": "क्षारसूत्र चिकित्सा (Ksharsutra Therapy)",
+        "content": "क्षारसूत्र एक आयुर्वेदिक पैरा-सर्जिकल प्रक्रिया है। इसमें जड़ी-बूटियों (मुख्यतः स्नुही क्षीर, अपामार्ग क्षार और हरिद्रा) से लेपित एक औषधीय धागे का उपयोग किया जाता है। यह धागा फिस्टुला (भगन्दर) और पाइल्स (बवासीर) को धीरे-धीरे काटकर और घाव को एक साथ भरते हुए निकाल देता है। यह बिना चीर-फाड़ के एक सुरक्षित और स्थायी इलाज है।",
+        "benefits": [
+          "अस्पताल में भर्ती होने की आवश्यकता नहीं",
+          "काम से कम छुट्टी (Minimal downtime)",
+          "रोग के दोबारा होने की संभावना न के बराबर",
+          "मल त्याग पर पूरा नियंत्रण बना रहता है"
+        ]
+      },
+      {
+        "title": "पथ्य-अपथ्य (Dietary Regimen)",
+        "content": "आयुर्वेद में आहार का विशेष महत्व है। सही आहार (पथ्य) रोग को जल्दी ठीक करता है, जबकि गलत आहार (अपथ्य) रोग को बढ़ाता है।",
+        "benefits": [
+          "पथ्य (Diet to Follow): फाइबर युक्त आहार, मौसमी फल (जैसे पपीता, अमरूद), मूंग दाल, छाछ (मट्ठा), और पर्याप्त मात्रा में गुनगुना पानी।",
+          "अपथ्य (Diet to Avoid): मैदा, अत्यधिक मिर्च-मसाले, चाय/कॉफी, जंक फूड, भारी मांसनी भोजन और देर रात का खाना।"
+        ]
+      },
+      {
+        "title": "पंचकर्म और जीवनशैली (Lifestyle & Detox)",
+        "content": "गुदा रोगों का मुख्य कारण खराब पाचन (मंदाग्नि) और कब्ज है। इसलिए केवल लक्षणों का नहीं, बल्कि जड़ से इलाज किया जाता है।",
+        "benefits": [
+          "नियमित व्यायाम और योगासन (जैसे प्राणायाम, वज्रासन)",
+          "लंबे समय तक एक ही मुद्रा में बैठने से बचें",
+          "मल-मूत्र के वेग को न रोकें",
+          "आयुर्वेदिक औषधियों द्वारा मल शुद्धि (पेट साफ करना)"
+        ]
+      }
+    ]
+  },
+  "doctors": [
+    {
+      "name": "डॉ. एस. के. ओझा",
+      "speciality": "गुद (मलद्वार) रोग विशेषज्ञ",
+      "photo": "/Dr S K Ojha/profile.jpeg",
+      "bio": [
+        "डॉ. संतोष कुमार ओझा एक अनुभवी आयुर्वेदिक चिकित्सक एवं गुदा रोग विशेषज्ञ हैं। उन्हें पाइल्स (बवासीर), फिस्टुला (भगन्दर), फिशर तथा अन्य गुदा रोगों के उपचार में कई वर्षों का अनुभव है।",
+        "डॉ. ओझा आयुर्वेद की प्राचीन एवं प्रभावी क्षारसूत्र चिकित्सा पद्धति के विशेषज्ञ हैं, जिसके माध्यम से बिना बड़े ऑपरेशन के जटिल गुदा रोगों का सफल इलाज किया जाता है।",
+        "डॉ. ओझा ने आयुर्वेद चिकित्सा में उच्च शिक्षा प्राप्त की है और अनेक राष्ट्रीय एवं अंतरराष्ट्रीय चिकित्सा सम्मेलनों (Medical Conferences) में भाग लेकर अपने ज्ञान को निरंतर अपडेट करते रहते हैं। वे मरीजों की समस्या को ध्यानपूर्वक समझकर उन्हें सुरक्षित, प्रभावी एवं व्यक्तिगत उपचार प्रदान करते हैं।",
+        "उनका मुख्य उद्देश्य मरीजों को कम समय में बेहतर स्वास्थ्य लाभ प्रदान करना तथा आयुर्वेदिक चिकित्सा के माध्यम से रोगों का स्थायी समाधान देना है।"
+      ],
+      "specialization": [
+        "पाइल्स (बवासीर) का इलाज",
+        "फिस्टुला (भगन्दर) का इलाज",
+        "फिशर का उपचार",
+        "कब्ज एवं गुदा रोग",
+        "क्षारसूत्र चिकित्सा",
+        "आयुर्वेदिक उपचार"
+      ],
+      "degrees": [
+        "B.A.M.S.",
+        "पी.जी. डिप. के.के. (क्षारकर्म)",
+        "शल्यतन्त्र विभाग",
+        "आई.एम.एस. बी.एच.यू.",
+        "वाराणसी डिप. इन योग, बी.एच.यू."
+      ],
+      "achievements": [
+        "20+ years of dedicated service in Anorectal care.",
+        "Performed over 10,000 successful Ksharsutra treatments.",
+        "Awarded 'Best Ayurvedic Surgeon' in Purvanchal."
+      ],
+      "conferences": [
+        "National Seminar on Ksharsutra Therapy - Speaker",
+        "International Ayurveda Congress - Attendee"
+      ],
+      "gallery": [
+        "/Dr S K Ojha/profile.jpeg",
+        "/Dr S K Ojha/image1.jpeg",
+        "/Dr S K Ojha/image2.jpeg",
+        "/Dr S K Ojha/image3.jpeg",
+        "/Dr S K Ojha/image4.jpeg",
+        "/Dr S K Ojha/image5.jpeg",
+        "/Dr S K Ojha/image6.jpeg",
+        "/Dr S K Ojha/image7.jpeg",
+        "/Dr S K Ojha/image8.jpeg",
+        "/Dr S K Ojha/image9.jpeg",
+        "/Dr S K Ojha/image10.jpeg",
+        "/Dr S K Ojha/image11.jpeg",
+        "/Dr S K Ojha/image12.jpeg",
+        "/Dr S K Ojha/image13.jpeg",
+        "/Dr S K Ojha/image14.jpeg",
+        "/Dr S K Ojha/image15.jpeg",
+        "/Dr S K Ojha/image16.jpeg",
+        "/Dr S K Ojha/image17.jpeg",
+        "/Dr S K Ojha/image18.jpeg",
+        "/Dr S K Ojha/image19.jpeg",
+        "/Dr S K Ojha/image20.jpeg",
+        "/Dr S K Ojha/image21.jpeg",
+        "/Dr S K Ojha/image22.jpeg",
+        "/Dr S K Ojha/image23.jpeg",
+        "/Dr S K Ojha/image24.jpeg",
+        "/Dr S K Ojha/image25.jpeg",
+        "/Dr S K Ojha/image26.jpeg",
+        "/Dr S K Ojha/image27.jpeg",
+        "/Dr S K Ojha/image28.jpeg"
+      ]
+    },
+    {
+      "name": "डॉ. सविता ओझा",
+      "speciality": "प्रसूति, स्त्रीरोग, गुदा रोग (मलद्वार), कॉस्मेटोलॉजी एवं ट्राइकोलॉजी एवं पंचकर्म विशेषज्ञ",
+      "photo": "/Dr Savita/profile.jpeg",
+      "bio": [
+        "डॉ. सविता ओझा एक कुशल एवं अनुभवी आयुर्वेदिक चिकित्सक हैं। उन्हें स्त्री रोग, त्वचा रोग, गुदा रोग एवं सामान्य स्वास्थ्य समस्याओं के आयुर्वेदिक उपचार में विशेष अनुभव प्राप्त है।",
+        "वे मरीजों की स्वास्थ्य स्थिति का गहराई से अध्ययन करके उन्हें उचित एवं प्रभावी उपचार प्रदान करती हैं।",
+        "डॉ. सविता ओझा आयुर्वेद की पारंपरिक चिकित्सा पद्धतियों को आधुनिक चिकित्सा तकनीकों के साथ जोड़कर मरीजों को बेहतर उपचार प्रदान करने के लिए जानी जाती हैं। उनका उद्देश्य मरीजों को प्राकृतिक एवं सुरक्षित तरीके से स्वस्थ बनाना है।"
+      ],
+      "specialization": [
+        "प्रसूति",
+        "स्त्रीरोग",
+        "गुदा रोग (मलद्वार)",
+        "कॉस्मेटोलॉजी एवं ट्राइकोलॉजी",
+        "आयुर्वेदिक चिकित्सा",
+        "त्वचा रोग उपचार",
+        "पाचन संबंधी रोग",
+        "पंचकर्म चिकित्सा"
+      ],
+      "degrees": [
+        "B.A.M.S.",
+        "सी.जी.ओ. प्रसूति विभाग, आई.एम.एस. बी.एच.यू., वाराणसी",
+        "C.C. इन पंचकर्म (केरला)"
+      ],
+      "achievements": [
+        "15+ years of excellent patient care in Gynecology and skin treatments.",
+        "Recognized for holistic Panchakarma therapies."
+      ],
+      "conferences": [
+        "Women's Health in Ayurveda Summit - Presenter",
+        "National Workshop on Dermatological Ayurveda"
+      ],
+      "gallery": [
+        "/Dr Savita/profile.jpeg",
+        "/Dr Savita/image1.jpeg",
+        "/Dr Savita/image2.jpeg",
+        "/Dr Savita/image3.jpeg",
+        "/Dr Savita/image4.jpeg",
+        "/Dr Savita/image5.jpeg",
+        "/Dr Savita/image6.jpeg",
+        "/Dr Savita/image7.jpeg",
+        "/Dr Savita/image8.jpeg",
+        "/Dr Savita/image9.jpeg",
+        "/Dr Savita/image10.jpeg",
+        "/Dr Savita/image11.jpeg",
+        "/Dr Savita/image12.jpeg",
+        "/Dr Savita/image13.jpeg",
+        "/Dr Savita/image14.jpeg",
+        "/Dr Savita/image15.jpeg",
+        "/Dr Savita/image16.jpeg",
+        "/Dr Savita/image17.jpeg",
+        "/Dr Savita/image18.jpeg",
+        "/Dr Savita/image19.jpeg",
+        "/Dr Savita/image20.jpeg",
+        "/Dr Savita/image21.jpeg",
+        "/Dr Savita/image22.jpeg",
+        "/Dr Savita/image23.jpeg"
+      ]
+    }
+  ]
+}
