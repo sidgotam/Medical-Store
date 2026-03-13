@@ -35,7 +35,7 @@ const Header = () => {
             />
             <div className="brand-text">
               <span className="brand-name">Kalash Chikitsalaya</span>
-              <span className="brand-tag">Ayurvedic Specialist</span>
+              <span className="brand-tag">सुश्रुत क्षारकर्म एवं पंचकर्म रिसर्च सेन्टर</span>
             </div>
           </a>
 
